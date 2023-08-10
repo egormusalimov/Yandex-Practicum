@@ -43,5 +43,5 @@
 ## Используемые бибилотеки
 `pandas` `numpy` `matplotlib` `seaborn` `plotly` `datetime` `scipy`
 
-## Часть III: SQL
+## Часть III: [SQL](https://github.com/egormusalimov/Yandex-Practicum/blob/main/graduation/sql_final.ipynb)
 Проанализировать базу данных. В ней — информация о книгах, издательствах, авторах, а также пользовательские обзоры книг.
