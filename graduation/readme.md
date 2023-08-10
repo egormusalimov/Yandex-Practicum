@@ -31,7 +31,7 @@
 ## Используемые библиотеки
 `pandas` `numpy` `matplotlib` `seaborn` `scipy`
 
-## Часть II: A/B-тестирование
+## Часть II: [A/B-тестирование](https://github.com/egormusalimov/Yandex-Practicum/blob/main/graduation/a_b_final.ipynb)
 ## Цель исследования
 Проведение оценки результатов A/B-теста после введения улучшенной программы рекомендаций для региона EU.
 
