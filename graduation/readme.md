@@ -32,6 +32,7 @@
 `pandas` `numpy` `matplotlib` `seaborn` `scipy`
 
 ## Часть II: [A/B-тестирование](https://github.com/egormusalimov/Yandex-Practicum/blob/main/graduation/a_b_final.ipynb)
+Корректное отображение тетрадки со всеми графиками по [ссылке](https://nbviewer.org/github/egormusalimov/Yandex-Practicum/blob/25761d0831972cd86e13353ee61ac30fa4752d50/graduation/a_b_final.ipynb)
 ## Цель исследования
 Проведение оценки результатов A/B-теста после введения улучшенной программы рекомендаций для региона EU.
 
